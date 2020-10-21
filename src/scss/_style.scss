@@ -1,0 +1,211 @@
+a:hover{
+    text-decoration: none !important;
+}
+/*ANIMATION CSS A*/
+@-webkit-keyframes hvr-wobble-bottom {
+    16.65% {
+      -webkit-transform: skew(-12deg);
+      transform: skew(-12deg);
+    }
+    33.3% {
+      -webkit-transform: skew(10deg);
+      transform: skew(10deg);
+    }
+    49.95% {
+      -webkit-transform: skew(-6deg);
+      transform: skew(-6deg);
+    }
+    66.6% {
+      -webkit-transform: skew(4deg);
+      transform: skew(4deg);
+    }
+    83.25% {
+      -webkit-transform: skew(-2deg);
+      transform: skew(-2deg);
+    }
+    100% {
+      -webkit-transform: skew(0);
+      transform: skew(0);
+    }
+  }
+  @keyframes hvr-wobble-bottom {
+    16.65% {
+      -webkit-transform: skew(-12deg);
+      transform: skew(-12deg);
+    }
+    33.3% {
+      -webkit-transform: skew(10deg);
+      transform: skew(10deg);
+    }
+    49.95% {
+      -webkit-transform: skew(-6deg);
+      transform: skew(-6deg);
+    }
+    66.6% {
+      -webkit-transform: skew(4deg);
+      transform: skew(4deg);
+    }
+    83.25% {
+      -webkit-transform: skew(-2deg);
+      transform: skew(-2deg);
+    }
+    100% {
+      -webkit-transform: skew(0);
+      transform: skew(0);
+    }
+  }
+  .hvr-wobble-bottom {
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    -webkit-transform-origin: 100% 0;
+    transform-origin: 100% 0;
+  }
+  .hvr-wobble-bottom:hover, .hvr-wobble-bottom:focus, .hvr-wobble-bottom:active {
+    -webkit-animation-name: hvr-wobble-bottom;
+    animation-name: hvr-wobble-bottom;
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-timing-function: ease-in-out;
+    animation-timing-function: ease-in-out;
+    -webkit-animation-iteration-count: 1;
+    animation-iteration-count: 1;
+  }
+/*FIN ANIMATION CSS*/
+.img-accueil {
+    height: 65vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.titre-accueil{
+    font-weight: 700;
+    color: #d6370c;
+}
+.separation-black, .separation-white, .separation-green{
+    width : 65px;
+    height: 4px;
+}
+.separation-black{
+    background-color: #d6370c;
+}
+.separation-white{
+    background-color: white;
+}
+.separation-green{
+    background-color: green;
+}
+
+/* NAVBAR PRINCIPALE*/
+.navbar{
+    background-color: white;
+    margin-top: 40px
+}
+.nav-link{
+    color: rgb(46, 49, 49) !important;
+}
+.nav-link:hover{
+    color: #d6370c !important;
+}
+.navbar-toggler{
+    background-color: rgb(46, 49, 49);
+}
+.nav_reseaux{
+    height: 40px;
+}
+
+.navbar-default{
+    color: rgb(46, 49, 49);
+}
+/* SECTION 1 */
+.container-sect-1{
+    margin-top: 8%;
+}
+
+.titre-small{
+    font-weight: 400;
+    color:rgb(70, 75, 75);
+}
+.titre-h1, .titre{
+    font-weight: 700;
+    color:rgb(70, 75, 75);
+}
+.titre-h1{
+    margin-top: 5%;
+    margin-bottom: 2%;
+}
+.titre-small{
+    color:gray;
+}
+.portfolio{
+    background-color: #F2F2F2;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    margin-top: 8%;
+    margin-bottom: -5%;
+}
+.titre-slide{
+    font-size: 1.2rem;
+}
+
+// VIDEO
+video{
+    z-index: 0;
+}
+.container-video{
+    z-index: 2;
+}
+.video-caption {
+    position: absolute;
+    right: 15%;
+    bottom: 20px;
+    left: 15%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+}
+
+//merchandising
+.titre-merchand{
+    color: #08354A;
+    font-size: 1.4rem;
+}
+.text-accueil-perso{
+    font-size: 1.4rem;
+    color: gray;
+}
+//footer
+.container-logo-footer{
+    padding-left : 10%;
+}
+.lien-footer{
+    text-decoration: none;
+    color: gray;
+    font-size: 0.8rem;
+}
+.li-footer, .li-footer-titre{
+    list-style: none;
+}
+.li-footer-titre{
+    font-weight: 400;
+    font-size: 1rem;
+}
+.form-contact{
+    margin:0 !important;
+}
+.button-respons{
+    display: none;
+}
+.txt-respons{
+    display: none;
+}
+.bg-green{
+    background-color: green;
+}

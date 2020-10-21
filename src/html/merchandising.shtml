@@ -1,0 +1,233 @@
+<!-- HEADER -->
+    <!--#include file="partials/header.shtml" -->
+
+    <section class="page-section section-boutique" style="margin-top:100px;">
+        <div class="container text-center">
+            <h1 class="titre mb-4">Merchandising</h1>
+            <h2 class="titre-small mb-4" style="font-size:1.2rem;">Artistes, festivales, groupes de musiques</h2>
+        </div>
+        <div class="container text-center">
+            <p class="text-justify text-muted">Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+                when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+                It has survived not only five centuries, but also the leap into electronic typesetting, 
+                remaining essentially unchanged.</p>
+        </div>
+        <hr class="separation-black" />
+</section>
+
+<section class="page-section" style="padding-top:0;">
+<div class="container text-center" id="boutique">
+    <div class="container cont-artiste text-center">
+        <a class="lien-shop hvr-center" href="#">Tous</a>
+        <a class="lien-shop hvr-center" href="#">Dinard Comedy Festival</a>
+        <a class="lien-shop hvr-center" href="#">Elodie Poux</a>
+        <a class="lien-shop hvr-center" href="#">Kawaik</a>
+        <a class="lien-shop hvr-center" href="#">Jamel Debouze</a>
+        <a class="lien-shop hvr-center" href="#">Juste pour rire</a>
+        <a class="lien-shop hvr-center" href="#">Joyeux Urbains</a>
+        <a class="lien-shop hvr-center" href="#">Arno Tsamère</a>   
+</div>
+    <div class="row">
+            <div class="col-lg-4 col-sm-4 shadow-bottom py-3">
+                <a href="boutique_detail.html">
+                    <img src="images/tsh/votez.jpg" width="225" height="300">
+                </a>
+                    <div class="container">
+                        <div class="text-center">
+                            <h2 class="titre-slide">Tee-shirt homme</h2>
+                        </div>
+                        <div class="project-name">
+                            <p>Votez pour moi</p>
+                        </div>
+                    </div>
+                    <div class="container">
+                        <a href="boutique_detail.html">Voir +</a>
+                    </div>
+            </div>
+            <div class="col-lg-4 col-sm-4 shadow-bottom py-3">
+                <a href="boutique_detail.html">
+                    <img src="images/tsh/punk_bleu.jpg" width="225" height="300">
+                </a>
+                    <div class="container">
+                        <div class="text-center">
+                            <h2 class="titre-slide">Tee-shirt homme</h2>
+                        </div>
+                        <div class="project-name">
+                            <p>Papa</p>
+                        </div>
+                    </div>
+                    <div class="container">
+                        <a href="boutique_detail.html">Voir +</a>
+                    </div>
+            </div>
+            <div class="col-lg-4 col-sm-4 shadow-bottom py-3">
+                <a href="boutique_detail.html">
+                    <img src="images/tsh/codebar_bl.jpg" width="225" height="300">
+                </a>
+                    <div class="container">
+                        <div class="text-center">
+                            <h2 class="titre-slide">Tee-shirt homme</h2>
+                        </div>
+                        <div class="project-name">
+                            <div class="project-name mx-0">
+                                <p>CodeBar</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="container">
+                        <a href="boutique_detail.html">Voir +</a>
+                    </div>
+            </div>
+            <div class="col-lg-4 col-sm-4 shadow-bottom py-3">
+                <a href="boutique_detail.html">
+                    <img src="images/tsh/meteo_gris.jpg" width="225" height="300">
+                </a>
+                    <div class="container">
+                        <div class="text-center">
+                            <h2 class="titre-slide">Tee-shirt homme</h2>
+                        </div>
+                        <div class="project-name mx-0">
+                            <p>Météo</p>
+                        </div>
+                    </div>
+                    <div class="container">
+                        <a href="boutique_detail.html">Voir +</a>
+                    </div>
+            </div>
+            <div class="col-lg-4 col-sm-4 shadow-bottom py-3">
+                <a href="boutique_detail.html">
+                    <img src="images/tsh/meteo_red.jpg" width="225" height="300">
+                </a>
+                    <div class="container">
+                        <div class="text-center">
+                            <h2 class="titre-slide">Tee-shirt homme</h2>
+                        </div>
+                        <div class="project-name mx-0">
+                            <p>Météo</p>
+                        </div>
+                    </div>
+                    <div class="container">
+                        <a href="boutique_detail.html">Voir +</a>
+                    </div>
+            </div>
+            <div class="col-lg-4 col-sm-4 shadow-bottom py-3">
+                <a href="boutique_detail.html">
+                    <img src="images/tsf/SA02_bleu.jpg" width="225" height="300">
+                </a>
+                    <div class="container">
+                        <div class="text-center">
+                            <h2 class="titre-slide">Tee-shirt femme</h2>
+                        </div>
+                        <div class="project-name mx-0">
+                            <p>Bleu chiné</p>
+                        </div>
+                    </div>
+                    <div class="container">
+                            <a href="boutique_detail.html">Voir +</a>
+                    </div>
+            </div>
+
+            <div class="col-lg-4 col-sm-4 shadow-bottom py-3">
+                <a href="boutique_detail.html">
+                    <img src="images/tsh/votez.jpg" width="225" height="300">
+                </a>
+                    <div class="container">
+                        <div class="text-center">
+                            <h2 class="titre-slide">Tee-shirt homme</h2>
+                        </div>
+                        <div class="project-name">
+                            <p>Votez pour moi</p>
+                        </div>
+                    </div>
+                    <div class="container">
+                        <a href="boutique_detail.html">Voir +</a>
+                    </div>
+            </div>
+            <div class="col-lg-4 col-sm-4 shadow-bottom py-3">
+                <a href="boutique_detail.html">
+                    <img src="images/tsh/punk_bleu.jpg" width="225" height="300">
+                </a>
+                    <div class="container">
+                        <div class="text-center">
+                            <h2 class="titre-slide">Tee-shirt homme</h2>
+                        </div>
+                        <div class="project-name">
+                            <p>Papa</p>
+                        </div>
+                    </div>
+                    <div class="container">
+                        <a href="boutique_detail.html">Voir +</a>
+                    </div>
+            </div>
+            <div class="col-lg-4 col-sm-4 shadow-bottom py-3">
+                <a href="boutique_detail.html">
+                    <img src="images/tsh/codebar_bl.jpg" width="225" height="300">
+                </a>
+                    <div class="container">
+                        <div class="text-center">
+                            <h2 class="titre-slide">Tee-shirt homme</h2>
+                        </div>
+                        <div class="project-name">
+                            <div class="project-name mx-0">
+                                <p>CodeBar</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="container">
+                        <a href="boutique_detail.html">Voir +</a>
+                    </div>
+            </div>
+            <div class="col-lg-4 col-sm-4 shadow-bottom py-3">
+                <a href="boutique_detail.html">
+                    <img src="images/tsh/meteo_gris.jpg" width="225" height="300">
+                </a>
+                    <div class="container">
+                        <div class="text-center">
+                            <h2 class="titre-slide">Tee-shirt homme</h2>
+                        </div>
+                        <div class="project-name mx-0">
+                            <p>Météo</p>
+                        </div>
+                    </div>
+                    <div class="container">
+                        <a href="boutique_detail.html">Voir +</a>
+                    </div>
+            </div>
+            <div class="col-lg-4 col-sm-4 shadow-bottom py-3">
+                <a href="boutique_detail.html">
+                    <img src="images/tsh/meteo_red.jpg" width="225" height="300">
+                </a>
+                    <div class="container">
+                        <div class="text-center">
+                            <h2 class="titre-slide">Tee-shirt homme</h2>
+                        </div>
+                        <div class="project-name mx-0">
+                            <p>Météo</p>
+                        </div>
+                    </div>
+                    <div class="container">
+                        <a href="boutique_detail.html">Voir +</a>
+                    </div>
+            </div>
+            <div class="col-lg-4 col-sm-4 shadow-bottom py-3">
+                <a class="image-popup-vertical-fit" href="images/tsf/SA02_bleu.jpg" title="Codebar">
+                    <img src="images/tsf/SA02_bleu.jpg" width="225" height="300">
+                </a>
+                    <div class="container">
+                        <div class="text-center">
+                            <h2 class="titre-slide">Tee-shirt femme</h2>
+                        </div>
+                        <div class="project-name mx-0">
+                            <p>Bleu chiné</p>
+                        </div>
+                    </div>
+                    <div class="container">
+                        <a href="boutique_detail.html">Voir +</a>
+                    </div>
+            </div>
+       </div>
+</div>
+</section>
+<!-- FOOTER -->
+<!--#include file="partials/footer.shtml" -->

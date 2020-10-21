@@ -1,0 +1,26 @@
+<footer class="bg-white border-top py-2 d-flex justify-content-around">
+    <div class="small col-lg-3 col-sm-3">
+        <img class="logo-footer text-center" src="images/logo-footer.png" alt="">
+    </div>
+    <div class="small col-lg-3 col-sm-3">
+        <div class="li-footer-titre text-center">Copyright © 2020 - Buster&cie</div>
+        <p class="small text-center text-muted">L'ensemble des illustrations présentées sur le site sont soumises aux droits à l'image. Reproduction interdite.</p>
+    </div>
+    <div class="small col-lg-3 col-sm-3 text-right mt-2">
+            <ul>
+                <li class="li-footer"><a class="lien-footer" href="#">Infos légales</a></li>
+                <li class="li-footer"><a class="lien-footer" href="#">Conditions de ventes</a></li>
+                <li class="li-footer"><a class="lien-footer" href="#">Contact</a></li>
+            </ul>
+    </div>
+</footer>
+        <script src="js/jquery.slim.min.js"></script>
+        <script src="js/jquery.min.js"></script>
+        <script src="js/jquery.easing.min.js"></script>
+        <script src="js/popper.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/jquery.magnific-popup.min.js"></script>
+        <script src="js/bootstrap.bundle.min.js"></script>
+        <script src="js/scripts.js"></script>
+</body>
+</html>

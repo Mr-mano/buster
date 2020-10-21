@@ -1,0 +1,85 @@
+<!-- HEADER -->
+    <!--#include file="partials/header.shtml" -->
+
+    <section class="page-section section-article">
+        <div class="container cont-article">
+            <div class="row featurette">
+                <div class="col-md-6 order-md-2">
+                    <div class="cont-retour d-flex justify-content-between">
+                        <div><h1 class="titre-article">Tee-shirt humoristique</h1></div>
+                        <div class="text-center"><a class="" href="boutique.html"><i class="fas fa-undo-alt"></i><br> Retour</a></div>
+                    </div>
+                    
+                    <h2 class="titre-visuel">Papa punk</h2>
+                    <p class="text-justify text-muted">Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+                        when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                    </p>
+                    <div class="container">
+                        <span class="prix titre">Graphiste :</span>
+                        <span class="prix text-muted"><a href="graphiste.html">Mano</a></span>
+                    </div>
+                    <div class="container">
+                        <span class="prix titre">Prix :</span>
+                        <span class="prix text-muted">22€</span>
+                    </div>
+                    <h4 class="mt-5">Les tailles disponibles : </h4>
+                    <div class="container d-flex mt-3">
+                        <div class="ml-2 mt-2"><a class="btn btn-outline-success"href="#">S</a></div>
+                        <div class="ml-2 mt-2"><a class="btn btn-outline-success"href="#">M</a></div>
+                        <div class="ml-2 mt-2"><a class="btn btn-outline-success"href="#">L</a></div>
+                        <div class="ml-2 mt-2"><a class="btn btn-outline-success"href="#">XL</a></div>
+                        <div class="ml-2 mt-2"><a class="btn btn-outline-success"href="#">2XL</a></div>
+                    </div>
+                    
+                    <div class="container text-center mt-5 mb-5">
+                        <a class="btn button-video btn-primary btn-xl mt-5 hvr-wobble-bottom" href="#">Ajouter au panier</a>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="container gallery-article">
+                        <a href="images/tsh/punk_bleu.jpg" title="Codebar" width="450" height="600"><img class="img-fluid" src="images/tsh/punk_bleu.jpg"></a>
+                        <div class="col-md-7 d-flex justify-content-md-start">
+                            <div class="mr-3 mt-5"><a href="images/tsh/punk_600.png" title="Codebar"><img class="img-article img-fluid" src="images/tsh/punk_600.png"></a></div>
+                           
+                        </div>
+                    </div>
+                </div>
+        </div>
+        <div class="container button-respons text-center mt-5 mb-5">
+            <a class="btn btn-primary btn-xl mt-5 hvr-wobble-bottom" href="#">Ajouter au panier</a>
+        </div>
+        <div class="container text-center mt-5">
+                <h4 class="titre">Fiche technique du produit:</h4>
+                <hr class="separation-black" />
+                <div class="container p-0">
+                    <p class="text-muted">EARTH POSITIVE<br>
+                    T-shirt homme / unisexe classique en jersey<br>
+                    Coton organic</p><br>
+                </div>
+            
+            <div class="border m-0 p-0 text-center" >
+                <img class="img-fluid" src="images/tailles/EP01.jpg" alt="Fiche technique">
+            </div>
+
+            <div class="container mt-5 pb-5 border-bottom">
+                <h4 class="titre">Mise en situation:</h4>
+                <hr class="separation-black" />
+                <p class="text-muted">Découvrez les photos des articles mis en situation :</p>
+                <div class="container gallery-situation">
+                    <div class="container d-flex justify-content-between">
+                        <div class="mr-3 mt-5"><a href="images/tsh/photo_tsh_N03.png" title="T-shirt Eath Positive"><img class="img-slide img-fluid" src="images/tsh/photo_tsh_N03.png" alt="T-shirt Eath Positive"></a></div>
+                        <div class="mr-3 mt-5"><a href="images/tsh/photo2_tsh_N03.png" title="T-shirt Eath Positive"><img class="img-slide img-fluid" src="images/tsh/photo2_tsh_N03.png" alt"T-shirt Eath Positive"></a></div>
+                        <div class="mr-3 mt-5"><a href="images/tsh/photo_tsh_N03.png" title="T-shirt Eath Positive"><img class="img-slide img-fluid" src="images/tsh/photo_tsh_N03.png" alt="T-shirt Eath Positive"></a></div>
+                        <div class="mr-3 mt-5"><a href="images/tsh/photo2_tsh_N03.png" title="T-shirt Eath Positive"><img class="img-slide img-fluid" src="images/tsh/photo2_tsh_N03.png" alt="T-shirt Eath Positive"></a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container text-center mt-5 mb-5">
+            <div><a class="" href="boutique.html"><i class="fas fa-undo-alt"></i><br>Retour<br>à la boutique</a></div>
+        </div>
+    </section>
+<!-- FOOTER -->
+<!--#include file="partials/footer.shtml" -->

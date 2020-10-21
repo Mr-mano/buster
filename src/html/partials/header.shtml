@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/styles.min.css">
+    
+    <title>Buster&cie</title>
+</head>
+<body id="top-page">
+    <!--logo réseaux sociaux-->
+    <nav class=" nav_reseaux fixed-top border-bottom bg-white d-flex justify-content-center">
+                <div class="container d-flex justify-content-end p-0">
+                    <a class="nav-link" style="font-size: 1.2rem;" href="#"><i class="fab fa-facebook-square"></i></a>
+                    <a class="nav-link" style="font-size: 1.2rem;"  href="#"><i class="fab fa-instagram"></i></a>
+                    <a class="nav-link" style="font-size: 1.2rem;"  href="#"><i class="fab fa-twitter"></i></a>
+                </div>
+                <div class="container d-flex justify-content-end" style="width: auto; min-width: 300px;">
+                    <a class="nav-link" href="index.html#contact">Contact <i class="far fa-paper-plane"></i></a>
+                    <a class="nav-link" href="#">Mon Panier <i class="fas fa-shopping-cart"></i></a>
+                </div>
+                    
+    </nav>
+    <!--navbar-->
+    <nav class="navbar navbar-expand-lg bg-white navbar-light fixed-top py-0 shadow" id="mainNav">
+        <img class="mr-5" src="images/logo.png" alt="">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto ml-3">
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="index.html">Accueil</a>
+                </li>
+            </ul>
+            <ul class="navbar-nav mr-5 nav">
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="boutique.html">Boutique</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="bio_ethique.html">Bio éthique</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="merchandising.html">Merchandising</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#">Personnalisation</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#">L'actu</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Xavier Lebreton
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="mon_compte.html">Mon compte</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="mon_compte.html">Mes commandes</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="#">Déconnection</a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </nav>

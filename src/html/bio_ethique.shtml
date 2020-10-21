@@ -1,0 +1,217 @@
+<!-- HEADER -->
+    <!--#include file="partials/header.shtml" -->
+    
+    <header>
+        <div class="carousel slide">
+            <div class="carousel-inner">
+                <div class="img-accueil mt-5" style="background-image: url('images/cotton.jpg');">
+                    <div class="carousel-caption">
+                        <h3 class="display-4" style="color:green; font-weight: 700;">Buster & Compagnie</h3>
+                        <hr class="separation-green" />
+                        <p class="lead" >C'est bio et c'est éthique.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+</header>
+<section>
+    <div class="container container-sect-1">
+        <div class="container text-center mb-5">
+            <h1 class="titre-h1" style="color:green;">Des tee-shirts en coton bio...<br>
+                <small class="titre-small">...et des engagements concrêts.</small>
+            </h1>
+            <hr class="separation-green" />
+            <p class="text- text-muted mt-3">Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+                when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+                when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+            <div class="row">
+                <div class="col-lg-2 col-md-4 text-center">
+                    <div class="mt-5">
+                        <img src="images/organic.png" alt="organic" style="width:180px;">
+                        
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 text-center">
+                    <div class="mt-5">
+                        <img src="images/recycled.png" alt="bootstrap" style="width:180px;">
+                        
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 text-center">
+                    <div class="mt-5">
+                        <img src="images/fairwair.png" alt="html" style="width:180px;">
+                        
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 text-center">
+                    <div class="mt-5">
+                        <img src="images/blended.png" alt="css" style="width:180px;">
+                        
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 text-center">
+                    <div class="mt-5">
+                        <img src="images/fairshare.png" alt="mysql" style="width:180px;">
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 text-center">
+                    <div class="mt-5">
+                        <img src="images/carbon.png" alt="sass" style="width:180px;">
+
+                    </div>
+                </div>
+    </div>
+</section>
+<section class="page-section">
+    <div class="container text-center">
+        <h2 class="titre mb-4">Nos Fournisseurs</h2>
+        <hr class="separation-green" />
+        <p class="text-justify text-muted mt-3">Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+            Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+            when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+            Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+            when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+        <div class="row d-flex justify-content-md-around">
+            <div class="col-lg-3 col-md-6 text-center">
+                <div class="mt-5">
+                    <img src="images/continental.svg" alt="Continental">
+                    <h4 class="titre-merchand text-center mt-4">Continental</h4>
+                    <p class="text-justify text-muted mt-3">Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+                        when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 text-center">
+                <div class="mt-5">
+                    <img src="images/earthpositive.svg" alt="Earth Positive">
+                    <h4 class="titre-merchand text-center mt-4">Earth Positive</h4>
+                    <p class="text-justify text-muted mt-3">Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+                        when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 text-center">
+                <div class="mt-5">
+                    <img src="images/salvage.svg" alt="Salvage">
+                    <h4 class="titre-merchand text-center mt-4">Salvage</h4>
+                    <p class="text-justify text-muted mt-3">Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+                        when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 text-center">
+                <div class="mt-5">
+                    <img src="images/fairshare.svg" alt="Fairshare">
+                    <h4 class="titre-merchand text-center mt-4">Fairshare</h4>
+                    <p class="text-justify text-muted mt-3">Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+                        when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<div class="container text-center">
+    <h2 class="mb-4" style="color:#CD7126;">SALVAGE</h2>
+    <hr class="separation-green" /><br>
+    <h3 class="titre mb-4">Des tee-shirts en matières recyclées</h3>
+</div>
+<section class="page-section bg-salvage text-center" style="background-image: url('images/salvage_grd.png'); z-index:0;">
+        <div class="container-success container text-center">
+            <div class="container">
+            <a class="btn btn-success btn-xl" href="https://www.continentalclothing.com/blog/salvagewaste">Découvrir</a>
+            </div>
+        </div>
+</section>
+
+<section class="page-section">
+    <div class="container">
+        <div class="row featurette">
+            <div class="col-md-7 order-md-2">
+                <h2 class="earthpositive" style="color:green;">EARTH POSITIVE</h2>
+                <h3 class="titre titre-pourc mb-4">Une empreinte carbone réduite de
+                    <span class="span-pourc">
+                        <div class="pourc" style="font-size: 4rem; color:green;">90%</div>
+                    </span>
+                </h3>
+                </h2>
+                <p class="text-justify text-muted">Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+                    when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+                    when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+                    when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                </p>
+                <div class="container text-center mt-5 mb-5">
+                    <a class="btn button-video btn-success btn-xl" href="https://www.continentalclothing.com/about/earthpositive">Découvrir</a>
+                </div>
+            </div>
+            <div class="col-md-5">
+                <img class="featurette-image img-fluid mx-auto" src="images/EP01.png" alt="earth positive">
+            </div>
+            <div class="container button-respons text-center mt-5 mb-5">
+                <a class="btn btn-success btn-xl" href="https://www.continentalclothing.com/about/earthpositive">Découvrir</a>
+            </div>
+        </div>
+    </div>
+    
+</section>
+<!--VIDEO-->
+<section class="page-section video">
+    <div class="carousel">
+        <div class="embed-responsive embed-responsive-16by9">
+            <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+                <source src="video/continental.mp4" type="video/mp4">
+            </video>
+            <div class="video-caption">
+                <h4 class="titre-video m-0 display-4 text-left">Continental Clothing Co</h4>
+                <h3 class="titre2-video display-4 text-left" style="color:green; font-weight: 700;">Fair-wear
+                    <small style="color:white; font-weight:100;">Responsabilité sociale</small>
+                </h3>
+                
+                    <div class="container">
+            <a class="btn btn-success btn-xl" href="https://www.continentalclothing.com/about#fair-wear">Découvrir</a>
+            </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="page-section fairshaire">
+    <div class="container">
+        <div class="row featurette">
+            <div class="col-md-7">
+                <h2 class="titre m-0" >FAIRSHARE</h2>
+                <h3 class="mb-4" style="color:#1F3162;">Un salaire minimum vital...<br>
+                    <span style="color:#1F3162;">...est un droit humain</span>
+                </h3>
+                </h2>
+                <p class="text-justify text-muted">Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+                    when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+                    when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+                    when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                </p>
+                <div class="container text-center mt-5">
+                    <a class="btn btn-success btn-xl" href="https://www.continentalclothing.com/about/fairshare">Découvrir</a>
+                </div>
+            </div>
+            <div class="col-md-5">
+                <img class="featurette-image img-fluid mx-auto" src="images/FairShare_logo_grd.png" alt="earth positive">
+            </div>
+        </div>
+    </div>
+
+</section>
+<!-- FOOTER -->
+    <!--#include file="partials/footer.shtml" -->

@@ -1,0 +1,72 @@
+<!-- HEADER -->
+    <!--#include file="partials/header.shtml" -->
+
+<section class="page-section"  style="margin-top:100px;">
+    <div class="text-center">
+        <h2>Mon compte</h2>
+        <hr class="separation-black" />
+    </div>
+
+
+        <div class="col-md-5 mx-auto">
+                <form>
+                    <div class="form-group">
+                    <label for="exampleInputEmail1">Nom</label>
+                    <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Nom">
+                    </div>
+                    <div class="form-group">
+                    <label for="exampleInputPassword1">Prenom</label>
+                    <input type="text" class="form-control" id="exampleInputPassword1" placeholder="Prenom">
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputPassword1">Email</label>
+                        <input type="email" class="form-control" id="exampleInputPassword1" placeholder="Email">
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputPassword1">Mot de passe</label>
+                        <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Mot de passe">
+                        <small id="emailHelp" class="form-text text-muted">Ne communiquez JAMAIS votre mot de passe.</small>
+                    </div>
+                        <div class="text-center"><button type="submit" class="btn btn-primary">Modifier</button></div>
+                </form>
+        </div>
+        <div class="col-md-5 mx-auto">
+            <form>
+                <div class="form-group">
+                    <label for="exampleInputEmail1">N° de rue</label>
+                    <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Numéro">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputPassword1">Adresse</label>
+                    <input type="text" class="form-control" id="exampleInputPassword1" placeholder="Adresse">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputPassword1">Complèment adresse</label>
+                    <input type="text" class="form-control" id="exampleInputPassword1" placeholder="Adresse">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputPassword1">Code postal</label>
+                    <input type="text" class="form-control" id="exampleInputPassword1" placeholder="Code postal">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputPassword1">Ville</label>
+                    <input type="text" class="form-control" id="exampleInputPassword1" placeholder="Ville">
+                </div>
+                <div class="form-group">
+                    <label for="exampleFormControlSelect1">Pays</label>
+                    <select class="form-control" id="exampleFormControlSelect1">
+                        <option>France</option>
+                        <option>Angleterre</option>
+                        <option>Italie</option>
+                        <option>Allemagne</option>
+                        <option>Espagne</option>
+                    </select>
+                  </div>
+                <div class="text-center"><button type="submit" class="btn btn-primary">Modifier</button></div>
+            </form>
+    </div>
+
+</section>
+
+    <!-- FOOTER -->
+    <!--#include file="partials/footer.shtml" -->
